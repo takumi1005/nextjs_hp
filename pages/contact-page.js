@@ -1,9 +1,12 @@
-const Contact = () => {
+import Layout from '../components/Layout'
+
+const Blog = () => {
   return (
-    <div>
-      
-    </div>
+    <Layout title="Contact">
+      Contact page
+    </Layout>
   )
 }
 
-export default Contact
+export default Blog
+
