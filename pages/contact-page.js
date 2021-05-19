@@ -26,7 +26,7 @@ const Blog = () => {
           <p className="text-xs mt-2 text-gray-600">000-123-456</p>
         </div>
         <div className="mt-6 flex justify-around">
-        <div>
+          <div>
             <a
               href="https://nerdcave.com/tailwind-cheat-sheet"
               target="_blank"
